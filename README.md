@@ -1,5 +1,7 @@
 # Node.js
 Learning Node.js the best thing ever
+# Notes
+control c stops de node.js document
 
 Creating a GitHub README file for your Node.js learning and practice repository is a great way to provide information about your project and help others understand its purpose and how to use it. Below is a template for a README file for your Node.js learning repository:
 
